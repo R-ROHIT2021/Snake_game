@@ -24,7 +24,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Credits
 - Inspired by [Snake Game Tutorial] by Dr. Angela Yu
 
-## Demo Screenshot
-- ![Gameplay Screenshot](<img width="443" alt="image" src="https://github.com/R-ROHIT2021/Snake_game/assets/85046343/4fbe6d35-3de0-42b3-a6c6-095ee7ff7d06">
-)
 
