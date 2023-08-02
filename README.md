@@ -18,9 +18,6 @@ Run the game: `python main.py`
 ## Contributing
 We welcome contributions, bug reports, and suggestions from the GitHub community. Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Credits
 - Inspired by [Snake Game Tutorial] by Dr. Angela Yu
 
