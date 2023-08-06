@@ -3,7 +3,6 @@
 A classic Snake game implemented in Python using the Turtle graphics library.
 
 ## Quiz Screenshot
-
 <img src="https://github.com/R-ROHIT2021/Snake_game/blob/main/Screenshot.png" alt="Alt Text" width="500" height="500">
 
 
