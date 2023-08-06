@@ -3,7 +3,7 @@
 A classic Snake game implemented in Python using the Turtle graphics library.
 
 ## Quiz Screenshot
-![Quiz Screenshot]()
+![Quiz Screenshot](https://github.com/R-ROHIT2021/Snake_game/blob/main/Screenshot.png)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/R-ROHIT2021/Snake_game.git`
