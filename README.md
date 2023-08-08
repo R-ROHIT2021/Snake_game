@@ -20,7 +20,7 @@ Run the game: `python main.py`
 - Score tracking with a scoreboard
 
 ## Contributing
-We welcome contributions, bug reports, and suggestions from the GitHub community.
+Contributions are welcome! If you find any issues or want to improve the application, feel free to submit a pull request.
 
 ## Credits
 - Inspired by [Snake Game Tutorial] by Dr. Angela Yu
